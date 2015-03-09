@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Wioxss for github.CSharp", "UnityVS.Wioxss for github.CSharp.csproj", "{6820262F-6068-E574-046B-821BE0058D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Wioxss for github.CSharp.Editor", "UnityVS.Wioxss for github.CSharp.Editor.csproj", "{ED498B0A-291C-9F67-4C46-2358E5186918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6820262F-6068-E574-046B-821BE0058D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6820262F-6068-E574-046B-821BE0058D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6820262F-6068-E574-046B-821BE0058D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6820262F-6068-E574-046B-821BE0058D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED498B0A-291C-9F67-4C46-2358E5186918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED498B0A-291C-9F67-4C46-2358E5186918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED498B0A-291C-9F67-4C46-2358E5186918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED498B0A-291C-9F67-4C46-2358E5186918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
